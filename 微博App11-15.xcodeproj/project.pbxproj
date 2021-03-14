@@ -382,6 +382,7 @@
 		3E06EEB425614A4200FAAE6B /* 微博App11-15 */ = {
 			isa = PBXGroup;
 			children = (
+				3EE4EEFB25FE4B91006F8617 /* test */,
 				3E06EEE725614AAC00FAAE6B /* Classes */,
 				3E06EEBE25614A4400FAAE6B /* Assets.xcassets */,
 				3EE69C0225725CEB0016F136 /* EmotionIcons */,
@@ -824,6 +825,13 @@
 				3E8D40AC25752FD100D958F5 /* ZFEmotionTool.m */,
 			);
 			path = Tool;
+			sourceTree = "<group>";
+		};
+		3EE4EEFB25FE4B91006F8617 /* test */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = test;
 			sourceTree = "<group>";
 		};
 		3EE69BE62570D65B0016F136 /* Compose */ = {
