@@ -92,6 +92,7 @@
 		3E8D40A52574C50200D958F5 /* UITextView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E8D40A42574C50200D958F5 /* UITextView+Extension.m */; };
 		3E8D40A82575014800D958F5 /* ZFEmotionAttachment.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E8D40A72575014800D958F5 /* ZFEmotionAttachment.m */; };
 		3E8D40AD25752FD100D958F5 /* ZFEmotionTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E8D40AC25752FD100D958F5 /* ZFEmotionTool.m */; };
+		3EE55BC025FF02CB00BCD5BF /* ZFTest2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE55BBF25FF02CB00BCD5BF /* ZFTest2.m */; };
 		3EE69BDF256E48320016F136 /* ZFStatusPhotosView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE69BDD256E48320016F136 /* ZFStatusPhotosView.m */; };
 		3EE69BE2256F42200016F136 /* ZFStatusPhotoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE69BE1256F42200016F136 /* ZFStatusPhotoView.m */; };
 		3EE69BE5256F88030016F136 /* ZFIconView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE69BE4256F88030016F136 /* ZFIconView.m */; };
@@ -298,6 +299,8 @@
 		3E8D40A72575014800D958F5 /* ZFEmotionAttachment.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZFEmotionAttachment.m; sourceTree = "<group>"; };
 		3E8D40AB25752FD100D958F5 /* ZFEmotionTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZFEmotionTool.h; sourceTree = "<group>"; };
 		3E8D40AC25752FD100D958F5 /* ZFEmotionTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZFEmotionTool.m; sourceTree = "<group>"; };
+		3EE55BBE25FF02CB00BCD5BF /* ZFTest2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZFTest2.h; sourceTree = "<group>"; };
+		3EE55BBF25FF02CB00BCD5BF /* ZFTest2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZFTest2.m; sourceTree = "<group>"; };
 		3EE69BDD256E48320016F136 /* ZFStatusPhotosView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFStatusPhotosView.m; sourceTree = "<group>"; };
 		3EE69BDE256E48320016F136 /* ZFStatusPhotosView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFStatusPhotosView.h; sourceTree = "<group>"; };
 		3EE69BE0256F421F0016F136 /* ZFStatusPhotoView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZFStatusPhotoView.h; sourceTree = "<group>"; };
@@ -480,6 +483,8 @@
 				3E06EEF72561632A00FAAE6B /* ZFTest1ViewController.h */,
 				3E06EEF82561632A00FAAE6B /* ZFTest1ViewController.m */,
 				3E06EEF92561632A00FAAE6B /* ZFTest1ViewController.xib */,
+				3EE55BBE25FF02CB00BCD5BF /* ZFTest2.h */,
+				3EE55BBF25FF02CB00BCD5BF /* ZFTest2.m */,
 			);
 			path = temp;
 			sourceTree = "<group>";
@@ -1045,6 +1050,7 @@
 				3E06EEC525614A4400FAAE6B /* main.m in Sources */,
 				3E8D409F2574A40E00D958F5 /* ZFEmotionTextView.m in Sources */,
 				3E2096A0256536B900EDEAB2 /* AFURLSessionManager.m in Sources */,
+				3EE55BC025FF02CB00BCD5BF /* ZFTest2.m in Sources */,
 				3EE69BE2256F42200016F136 /* ZFStatusPhotoView.m in Sources */,
 				3E06EEEA25614E8B00FAAE6B /* ZFHomeViewController.m in Sources */,
 				3E2096EE25667EB400EDEAB2 /* UIImageView+WebCache.m in Sources */,
